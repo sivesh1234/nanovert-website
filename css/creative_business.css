@@ -10595,7 +10595,19 @@ hr.light {
 }
 
 .page-section {
+
   padding: 8rem 0;
+
+}
+.page-section1 {
+
+  padding: 8rem 0;
+  background-image: url('../masthead.jpg')
+}
+.page-section2 {
+
+  padding: 8rem 0;
+  background-image: url('../masthead2.jpg')
 }
 
 #mainNav {
